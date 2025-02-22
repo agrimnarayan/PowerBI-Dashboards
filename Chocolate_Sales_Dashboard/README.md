@@ -2,6 +2,9 @@
 
 This Power BI dashboard provides a comprehensive analysis of chocolate sales performance across multiple dimensions, including salesperson performance, category-wise breakdown, and geographical distribution.  
 
+![image](https://github.com/user-attachments/assets/253d68d2-e28b-4124-9596-1382f312c3bb)
+
+
 ## 📌 **Key Features**  
 
 ### 1️⃣ **Sales Performance Overview**  
