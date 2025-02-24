@@ -6,7 +6,8 @@ Millions of devotees participate in **spiritual purification, rituals, and praye
 Managing such a vast event requires **data-driven decision-making**, making this **Footfall Dashboard** crucial for analyzing visitor trends.  
 
 
-![image](https://github.com/user-attachments/assets/d27869a6-6eb1-47b0-9c9b-51e542491bb3)
+![image](https://github.com/user-attachments/assets/0570012c-2b5e-49f5-a800-09cdec5e8055)
+
 
 ---  
 
