@@ -5,7 +5,8 @@ Netflix is a global streaming giant offering a vast collection of movies and TV 
 
 This **Netflix Dashboard** provides insights into content popularity, IMDb ratings, and voting trends, making it a valuable tool for data-driven decisions in the entertainment industry.
 
-![Netflix Dashboard](image.png)
+![image](https://github.com/user-attachments/assets/47ca8a8f-18e2-4c61-8508-24c1fcf24347)
+
 
 ## 📊 About the Dashboard
 This dashboard visualizes key data points related to Netflix movies and shows:
