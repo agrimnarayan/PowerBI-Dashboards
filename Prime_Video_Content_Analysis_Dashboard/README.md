@@ -3,6 +3,9 @@
 ## 🎬 About Prime Video  
 Prime Video is a top-tier streaming platform offering a vast collection of movies and TV shows across multiple genres, age ratings, and regions. With an ever-growing content library, data-driven insights are essential for optimizing content distribution and audience engagement.  
 
+![image](https://github.com/user-attachments/assets/8960e1ad-e7bc-4df2-a52a-b1ac043e858d)
+
+
 ## 🔹 About the Dashboard  
 This dashboard provides key insights into Prime Video’s:  
 ✅ **Total Titles & Ratings**  
