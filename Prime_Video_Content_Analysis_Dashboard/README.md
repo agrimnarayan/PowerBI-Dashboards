@@ -8,7 +8,9 @@ Prime Video is a top-tier streaming platform offering a vast collection of movie
 
 
 🔹 About the Dashboard
+
 This dashboard provides key insights into Prime Video’s:
+
 ✅ Total Titles & Ratings
 ✅ Genre & Rating Distribution
 ✅ Content Type Breakdown
