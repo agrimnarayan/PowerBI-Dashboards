@@ -1,25 +1,25 @@
-📊 Prime Video Content Analysis Dashboard
+#📊 Prime Video Content Analysis Dashboard
 
-🎬 About Prime Video
+##🎬 About Prime Video
 Prime Video is a top-tier streaming platform offering a vast collection of movies and TV shows across multiple genres, age ratings, and regions. With an ever-growing content library, data-driven insights are essential for optimizing content distribution and audience engagement.
 
 ![image](https://github.com/user-attachments/assets/471948e1-99cb-4c80-aab3-5f6552298cc2)
 
 
 
-🔹 About the Dashboard
+##🔹 About the Dashboard
 
 This dashboard provides key insights into Prime Video’s:
 
-✅ Total Titles & Ratings
-✅ Genre & Rating Distribution
-✅ Content Type Breakdown
-✅ Release Year Trends
-✅ Country-Wise Distribution
+###✅ Total Titles & Ratings
+###✅ Genre & Rating Distribution
+###✅ Content Type Breakdown
+###✅ Release Year Trends
+###✅ Country-Wise Distribution
 
 The data helps content teams refine acquisition strategies, improve content recommendations, and enhance user experience.
 
-🔹 Key Visualizations & Insights
+##🔹 Key Visualizations & Insights
 
 1️⃣ Total Titles & Ratings Overview
 📌 9,651 total titles categorized under 25 different ratings
